@@ -1,8 +1,8 @@
-# Hi, I'm Lukasz Nogaj
+Hi, I'm Lukasz Nogaj
 
 Frontend Developer focused on building clean React applications and practical user interfaces.
 
-After several years working in transport operations in London, I transitioned into software development and now build independent frontend projects using modern JavaScript and React.
+Currently building and polishing frontend projects with React, JavaScript, and Supabase while preparing for my first frontend developer role.
 
 ---
 
