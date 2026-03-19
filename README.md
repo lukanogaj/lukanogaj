@@ -53,7 +53,7 @@ Live Demo
 https://portfolio-theta-two-8m64j7gyg9.vercel.app/
 
 Repository  
-https://github.com/lukanogaj/portfolio
+https://lukasz-nogaj.vercel.app/
 
 ---
 
