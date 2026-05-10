@@ -50,7 +50,7 @@ React • Vite • SCSS
 Minimal portfolio website showcasing my frontend projects and technical profile.
 
 Live Demo  
-https://portfolio-theta-two-8m64j7gyg9.vercel.app/
+https://lukasz-nogaj.vercel.app/
 
 Repository  
 https://lukasz-nogaj.vercel.app/
