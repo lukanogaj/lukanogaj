@@ -32,7 +32,7 @@ Features:
 - Production deployment with Vercel
 
 Live Demo  
-https://dayflow.vercel.app/
+https://dayflow-seven-psi.vercel.app
 
 Repository  
 https://github.com/lukanogaj/dayflow
