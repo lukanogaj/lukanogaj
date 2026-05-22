@@ -1,24 +1,45 @@
-Hi, I'm Lukasz Nogaj
+# Hi, I'm Lukasz Nogaj
 
-Frontend Developer focused on building clean React applications and practical user interfaces.
+Frontend Developer focused on React architecture, reusable UI systems and clean data flow.
 
-Currently building and polishing frontend projects with React, JavaScript, and Supabase while preparing for my first frontend developer role.
+Currently building and polishing frontend projects with React, JavaScript and modern frontend tooling while preparing for my first frontend developer role.
 
 ---
 
-## Tech Stack
+# Tech Stack
 
-Frontend  
+## Frontend
 React • JavaScript (ES6+) • HTML • SCSS
 
-Tools  
-Git • Vite • Supabase • Vercel
+## Tools
+Git • Vite • Vitest • Supabase • Vercel
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-### Anchor — Task Scheduler
+## Dayflow — Todo Flow Architecture
+React • JavaScript • Vite • Vitest
+
+Frontend training project focused on clean todo data flow architecture, reusable selectors/helpers and unit testing.
+
+Features:
+- Derived state architecture
+- Reusable selectors and helpers
+- Sorting by priority and date
+- Unit tests with Vitest
+- Responsive dark UI
+- Production deployment with Vercel
+
+Live Demo  
+https://dayflow.vercel.app/
+
+Repository  
+https://github.com/lukanogaj/dayflow
+
+---
+
+## Anchor — Task Scheduler
 React • Supabase • SCSS
 
 Task management application with realtime database updates and structured component architecture.
@@ -31,7 +52,7 @@ https://github.com/lukanogaj/anchor
 
 ---
 
-### JS Landing Page Builder
+## JS Landing Page Builder
 Vanilla JavaScript • DOM API
 
 Modular JavaScript application allowing dynamic webpage section creation using pure DOM manipulation.
@@ -44,29 +65,29 @@ https://github.com/lukanogaj/js-landing-builder
 
 ---
 
-### Developer Portfolio
+## Developer Portfolio
 React • Vite • SCSS
 
-Minimal portfolio website showcasing my frontend projects and technical profile.
+Minimal portfolio website showcasing frontend projects and technical profile.
 
 Live Demo  
 https://lukasz-nogaj.vercel.app/
 
 Repository  
-https://lukasz-nogaj.vercel.app/
+https://github.com/lukanogaj/portfolio
 
 ---
 
-## Currently Working On
+# Currently Working On
 
-Improving frontend architecture and preparing for a Junior / Strong Junior Frontend Developer role.
+Improving frontend architecture, testing and production-ready React applications while preparing for a Junior / Strong Junior Frontend Developer role.
 
 ---
 
-## Contact
+# Contact
 
 Email  
 lukasz.nogajdev@gmail.com
 
 Portfolio  
-https://portfolio-theta-two-8m64j7gyg9.vercel.app/
+https://lukasz-nogaj.vercel.app/
