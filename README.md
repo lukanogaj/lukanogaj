@@ -80,7 +80,6 @@ https://github.com/lukanogaj/portfolio
 
 # Currently Working On
 
-Currently Working On
 
 Frontend architecture, TypeScript, testing and production-ready React applications while preparing for my first Frontend Developer role.
 
