@@ -9,10 +9,10 @@ Currently building and polishing frontend projects with React, JavaScript and mo
 # Tech Stack
 
 ## Frontend
-React • JavaScript (ES6+) • HTML • SCSS
+React • JavaScript • TypeScript • Next.js • HTML5 • CSS3 • SCSS
 
 ## Tools
-Git • Vite • Vitest • Supabase • Vercel
+Git • Vite • Vitest • Supabase • REST API • Vercel
 
 ---
 
@@ -80,7 +80,9 @@ https://github.com/lukanogaj/portfolio
 
 # Currently Working On
 
-Improving frontend architecture, testing and production-ready React applications while preparing for a Junior / Strong Junior Frontend Developer role.
+Currently Working On
+
+Frontend architecture, TypeScript, testing and production-ready React applications while preparing for my first Frontend Developer role.
 
 ---
 
