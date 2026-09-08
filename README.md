@@ -1,169 +1,68 @@
 
 # Hi, I'm Lukasz Nogaj
 
-Frontend Developer focused on React architecture, reusable UI systems and clean data flow.
+Software Engineer with 12 years of hands-on experience in UK public transport operations, now building full-stack applications with React, TypeScript and Node.js.
 
-Currently building and polishing frontend projects with React, JavaScript and modern frontend tooling while preparing for my first frontend developer role.
+Currently developing **Bus Operations Simulator** — a full-stack system modelling real driver scheduling, rota management and operational logic, combining deep transport domain expertise with practical software engineering skills. Comfortable working with AI tools while maintaining full understanding and ownership of the underlying code.
 
----
+## Tech Stack
 
-# Tech Stack
+**Frontend**
+React • TypeScript • JavaScript • Next.js • HTML5 • CSS3 • SCSS
 
-## Frontend
+**Backend & Data** *(in progress)*
+Node.js • Express • PostgreSQL • REST API
 
-React • JavaScript • TypeScript • Next.js • HTML5 • CSS3 • SCSS
+**Tools**
+Git • Vite • Vitest • Supabase • Vercel • AI-Assisted Development
 
-## Tools
+## Featured Projects
 
-Git • Vite • Vitest • Supabase • REST API • Vercel
+### Bus Operations Simulator — Transport Operations Platform *(Current Main Project)*
+`React` `TypeScript` `Node.js (in progress)` `PostgreSQL (in progress)` `REST API`
 
----
+A full-stack system modelling real-world bus driver scheduling, weekly rota rotation and operational logic, based on 12 years of professional experience in UK transport operations.
 
-# Featured Projects
+**Current Features**
+- Driver management with data models reflecting real industry constraints
+- Weekly rota generation and rotation
+- Driver Status tracking (available, sick, holiday, training, suspended, leave notice)
+- Feature-based Git workflow: ticket → branch → implementation → code review → merge
+- In progress: Node.js/PostgreSQL backend and an AI-assisted module helping controllers identify driver replacements in real time
 
-## Bus Operations Simulator (Current Main Project)
-
-React • TypeScript • Vite
-
-A real-world frontend application inspired by my professional experience in public transport.
-
-The project focuses on building scalable business logic for driver management, weekly rotas, scheduling and operational planning while following modern React architecture and clean TypeScript practices.
-
-Current Features
-
-- Driver management
-- Weekly rota generation
-- Driver Status Card
-- Business data models
-- TypeScript architecture
-- Feature-based Git workflow
-- Continuously expanding with new operational features
-
-Repository
-
-https://github.com/lukanogaj/bus-operations-simulator
+**Repository:** https://github.com/lukanogaj/bus-operations-simulator
 
 ---
 
-## Codewars JavaScript Journey
+### Dayflow — Todo Flow Architecture
+`React` `TypeScript` `Vitest`
 
-JavaScript • Algorithms • Problem Solving
+Frontend project focused on clean data flow architecture, derived state, reusable selectors/helpers and unit testing.
 
-A growing collection of JavaScript kata organised by difficulty (8 kyu → 7 kyu).
+- Architected a clean data pipeline preventing state duplication
+- Unit testing suite with Vitest for reliable business logic
+- Production deployment on Vercel
 
-The repository documents my continuous JavaScript learning journey and focuses on writing clean solutions while improving problem-solving skills and mastering core JavaScript concepts.
-
-Topics include:
-
-- Arrays
-- Strings
-- Objects
-- Array methods
-- Functional programming
-- Modern JavaScript
-- Clean Git history
-
-Repository
-
-https://github.com/lukanogaj/codewars-js
+**Live Demo:** https://dayflow-seven-psi.vercel.app
+**Repository:** https://github.com/lukanogaj/dayflow
 
 ---
 
-## Dayflow — Todo Flow Architecture
+### Codewars — JavaScript Problem Solving
+`JavaScript` `Algorithms`
 
-React • JavaScript • Vite • Vitest
+Ongoing collection of JavaScript kata (8 kyu → 7 kyu), documenting continuous practice with core JavaScript concepts, array methods and functional programming.
 
-Frontend training project focused on clean todo data flow architecture, reusable selectors/helpers and unit testing.
+**Repository:** https://github.com/lukanogaj/codewars-js
 
-Features:
+## Currently Working On
 
-- Derived state architecture
-- Reusable selectors and helpers
-- Sorting by priority and date
-- Unit tests with Vitest
-- Responsive dark UI
-- Production deployment with Vercel
+- Bus Operations Simulator backend (Node.js + PostgreSQL) and AI-assisted operations module
+- Advanced TypeScript patterns and testing
+- Production-ready, full-stack React applications
 
-Live Demo
+## Contact
 
-https://dayflow-seven-psi.vercel.app
-
-Repository
-
-https://github.com/lukanogaj/dayflow
-
----
-
-## Anchor — Task Scheduler
-
-React • Supabase • SCSS
-
-Task management application with realtime database updates and structured component architecture.
-
-Live Demo
-
-https://anchor-phi-sandy.vercel.app/
-
-Repository
-
-https://github.com/lukanogaj/anchor
-
----
-
-## JS Landing Page Builder
-
-Vanilla JavaScript • DOM API
-
-Modular JavaScript application allowing dynamic webpage section creation using pure DOM manipulation.
-
-Live Demo
-
-https://lukanogaj.github.io/js-landing-builder/
-
-Repository
-
-https://github.com/lukanogaj/js-landing-builder
-
----
-
-## Developer Portfolio
-
-React • Vite • SCSS
-
-Minimal portfolio website showcasing frontend projects and technical profile.
-
-Live Demo
-
-https://lukasz-nogaj.vercel.app/
-
-Repository
-
-https://github.com/lukanogaj/portfolio
-
----
-
-# Currently Working On
-
-- Bus Operations Simulator (React + TypeScript)
-- JavaScript problem solving through Codewars
-- Frontend architecture
-- TypeScript
-- Testing
-- Production-ready React applications
-- Preparing for my first Frontend Developer role
-
----
-
-# Contact
-
-Email
-
-lukasz.nogajdev@gmail.com
-
-Portfolio
-
-https://lukasz-nogaj.vercel.app/
-
-GitHub
-
-https://github.com/lukanogaj
+**Email:** lukasz.nogajdev@gmail.com
+**Portfolio:** https://lukasz-nogaj.vercel.app/
+**GitHub:** https://github.com/lukanogaj
