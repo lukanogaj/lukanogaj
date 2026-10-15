@@ -1,37 +1,40 @@
-# Hi, I'm Lukasz Nogaj 👋
+# Hi, I'm Lukasz 👋
 
-**Full-Stack JavaScript Developer** focused on React, TypeScript, Node.js and PostgreSQL.
+## Frontend Developer | React · TypeScript · JavaScript · Next.js
 
-I bring 12 years of hands-on experience in UK public transport operations into software development, building applications around real operational problems rather than only tutorial scenarios.
+Frontend Developer focused on building modern, maintainable web applications with React, TypeScript and JavaScript.
 
-My main project, **Bus Operations Simulator**, is a production-deployed full-stack application modelling driver scheduling, rota allocation, sign-on operations, absences, incidents and real-time operational issues.
+I have commercial experience working alongside a senior full-stack engineer, contributing to production applications, reusable UI components, REST API integrations, debugging and feature development.
+
+My main focus is frontend engineering, while my experience with Node.js, Express and PostgreSQL gives me a practical understanding of how complete web applications work across the stack.
+
+---
 
 ## Tech Stack
 
-**Frontend**  
-React • TypeScript • JavaScript • HTML5 • CSS3 • Vite
+### Frontend
 
-**Backend**  
-Node.js • Express • REST APIs • JWT • bcrypt
+`React` `TypeScript` `JavaScript` `Next.js` `HTML` `CSS` `SCSS` `Vite`
 
-**Database**  
-PostgreSQL • Neon
+### Testing & Development
 
-**Testing & Tools**  
-Vitest • Git • GitHub • Docker • Docker Compose
+`Vitest` `Git` `GitHub` `REST APIs` `Docker`
 
-**Deployment & APIs**  
-Render • Vercel • Gemini API
+### Backend & Database
+
+`Node.js` `Express` `PostgreSQL` `SQL` `JWT` `bcrypt`
 
 ---
 
 # Featured Projects
 
-## 🚌 Bus Operations Simulator — Full-Stack Operations Platform
+## 🚌 Bus Operations Simulator
 
-`React` `TypeScript` `Node.js` `Express` `PostgreSQL` `Docker` `JWT` `Gemini API`
+`React` `TypeScript` `Node.js` `Express` `PostgreSQL` `Vitest` `JWT`
 
-My main portfolio project — a full-stack application based on real-world bus garage operations and my professional transport experience.
+A full-stack application modelling real-world bus operations, built around practical workflows from the public transport industry.
+
+The frontend is built with React and TypeScript and communicates with a Node.js/Express REST API backed by PostgreSQL.
 
 ### Key Features
 
@@ -65,62 +68,3 @@ PostgreSQL           Gemini API
         |
         v
       Neon
-```
-
-**Live Demo:** https://bus-operations-simulator.onrender.com
-
-**Repository:** https://github.com/lukanogaj/bus-operations-simulator
-
-The application is deployed on Render with PostgreSQL hosted on Neon.
-
----
-
-## ✅ Dayflow — Todo Flow Architecture
-
-`React` `TypeScript` `Vitest`
-
-Frontend project focused on predictable data flow, derived state, reusable helpers and automated testing.
-
-- Clean state and data-flow architecture
-- Reusable selectors and helpers
-- Unit testing with Vitest
-- Production deployment on Vercel
-
-**Live Demo:** https://dayflow-seven-psi.vercel.app
-
-**Repository:** https://github.com/lukanogaj/dayflow
-
----
-
-## 🎻 Madre di Dio — Wedding Music Website
-
-`React` `TypeScript` `Vite` `Responsive Design`
-
-A responsive website for a wedding music ensemble, designed and developed as a real-world frontend project.
-
-- Responsive React interface
-- Light and dark themes
-- Reusable component architecture
-- Custom visual design
-- Production deployment on Vercel
-
-**Live Demo:** https://madre-di-dio.vercel.app
-
-**Repository:** https://github.com/lukanogaj/madre-di-dio
-
----
-
-## What I'm Focused On
-
-- Full-stack JavaScript / TypeScript development
-- React application architecture
-- Node.js and Express APIs
-- PostgreSQL and relational data modelling
-- Testing and maintainable business logic
-- Building software around real operational problems
-
-## Contact
-
-**Email:** lukasz.nogajdev@gmail.com  
-**Portfolio:** https://lukasz-nogaj.vercel.app/  
-**GitHub:** https://github.com/lukanogaj
