@@ -146,4 +146,4 @@ This background has developed strong communication, responsibility, attention to
 
 ---
 
-**Open to Full-Stack / React / React + Node.js opportunities in Kraków, Rzeszów and Remote/Hybrid roles in Poland.**
+**Open to Full-Stack / React / React + Node.js opportunities in Kraków, Rzeszów and Remote/Hybrid.**
